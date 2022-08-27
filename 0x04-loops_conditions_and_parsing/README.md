@@ -1,2 +1,1 @@
-My README
-for loops, conditions and parsing.
+my readme for processes and signals
